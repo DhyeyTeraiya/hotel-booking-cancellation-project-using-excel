@@ -14,8 +14,7 @@ Explore insights into hotel booking cancellations using this data analysis proje
 - Beginner-Friendly
 - Insights
 
-## 📊 Dashboard Preview
-![Dashboard Preview](https://github.com/minhaj-313/Hotel_Booking_Cancellation/blob/main/Hotel%20Booking%20Cancellation%20Analysis%20Dashboards%20using%20Excel.png)
+
 
 ## 📝 Instructions
 1. Download the Excel file to explore the analysis.
@@ -24,8 +23,8 @@ Explore insights into hotel booking cancellations using this data analysis proje
 
 Feel free to contribute, provide feedback, or use this project as a learning resource.
 
-## Connect with Me:
-Follow me on LinkedIn for more data analysis projects and insights: [LinkedIn Profile](https://www.linkedin.com/in/minhaj313)
+## Connect with Me:))
+Follow me on LinkedIn for more data analysis projects and insights: [LinkedIn Profile]([https://www.linkedin.com/in/dhyeyteraiya)
 
 ## Tags:
 #DataAnalysis #DataAnalyst #Excel #DataVisualization #BusinessIntelligence #SalesAnalytics
